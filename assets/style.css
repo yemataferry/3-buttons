@@ -1,21 +1,23 @@
 body{
     background-color: darkslateblue;
     color: white;
+    margin: 200px auto;
 }
 .first{
     background-color: white;
-    width: 20%;
+    width: 5%;
     height: 50px;
     border-radius: 5px;
 }
 .second{
-    background-color:green ;
-    width: 20%;
+    background-color:pink ;
+    width:5%;
     height: 50px;
     border-radius: 5px;
 }
-/*.Third{
-    background-color: ;
-    width: 20%;
-    height: 20px;
-}*/
+.Third{
+    background-color:green;
+    width: 5%;
+    height: 50px;
+    border-radius: 5px;
+}
